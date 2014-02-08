@@ -1,5 +1,5 @@
 {
-	"name": "gergelypolonkai/tcpdfbundle",
+	"name": "maciekktl/tcpdfbundle",
 	"type": "symfony-bundle",
 	"description": "Provides TCPDF integration for Symfony",
 	"keywords": [ "tcpdf", "pdf" ],
